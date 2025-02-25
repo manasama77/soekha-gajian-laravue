@@ -21,7 +21,7 @@ const mainNavItems: NavItem[] = [
 const footerNavItems: NavItem[] = [
     {
         title: `Version ${appVersion}`,
-        href: 'https://laravel.com/docs/starter-kits',
+        href: 'https://github.com/manasama77/soekha-gajian-laravue/blob/dev/README.md',
         icon: BookOpen,
     },
 ];
